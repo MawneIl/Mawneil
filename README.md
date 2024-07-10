@@ -3,7 +3,7 @@
 
 
 
-## Hard Skills:
+## Instruments:
 
 ##### Languages:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,16 +33,10 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## My projects:
-
-
-
-
-#### Связаться со мной:
+#### Contacts:
 <a href="https://t.me/Mawneil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://wa.me/+79600445555"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-💬 [Ask me about ...](https://t.me/Mawneil)
 <!--
 **MawneIl/Mawneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
